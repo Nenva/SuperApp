@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SuperApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Email">Correo electrónico</string>
+    <string name="Password">Contraseña</string>
+    <string name="Login">Ingresar</string>
+    <string name="text_register">¿Quieres crear una cuenta? Click aquí</string>
+    <string name="complete_name">Nombre completo</string>
+    <string name="phone_number">Teléfono</string>
+    <string name="create_user">Crear usuario</string>
+    <string name="text_login">¿Ya tienes una cuenta? Click aquí</string>
+</resources>
